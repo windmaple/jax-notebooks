@@ -1,1 +1,1 @@
-Misc LLM notebooks using JAX
+Misc notebooks using JAX
